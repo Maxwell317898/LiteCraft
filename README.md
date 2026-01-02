@@ -1,8 +1,7 @@
-Paper [![Paper Build Status](https://img.shields.io/github/actions/workflow/status/PaperMC/Paper/build.yml?branch=main)](https://github.com/PaperMC/Paper/actions)
-[![Discord](https://img.shields.io/discord/289587909051416579.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/papermc)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/papermc?label=GitHub%20Sponsors)](https://github.com/sponsors/PaperMC)
-[![Open Collective](https://img.shields.io/opencollective/all/papermc?label=OpenCollective%20Sponsors)](https://opencollective.com/papermc)
-===========
+# LiteCraft (a fork of [PaperMC](https://papermc.io/))
+>[!NOTE]
+>This Project has just started and is a work in progress basicaly all of the code and docs that here are from [PaperMc](https://papermc.io/) <br>
+
 
 The most widely used, high-performance Minecraft server that aims to fix gameplay and mechanics inconsistencies.
 
